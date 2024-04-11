@@ -1,5 +1,7 @@
 void setup(){
 size(440, 420);
+background(222, 220, 154);
+fill(240,0,0);
 
 int recWidth=40;
 int recHeight=20;
